@@ -1,0 +1,34 @@
+# Python environments
+.env
+.venv/
+venv/
+env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+# IDEs
+.vscode/
+.idea/
+
+# Large models / datasets
+models/
+*.bin
+*.pt
+*.pth
+*.safetensors
+*.onnx
+*.gguf
+data/*.csv
+data/*.json
+data/*.db
+data/*.sqlite
+!data/.keep
+
+# Temporary files
+outputs/
+*.log

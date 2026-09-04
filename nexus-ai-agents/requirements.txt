@@ -1,0 +1,10 @@
+langchain
+langchain-google-genai
+langchain-community
+crewai
+crewai-tools
+pypdf
+chromadb
+duckduckgo-search
+pydantic
+python-dotenv
